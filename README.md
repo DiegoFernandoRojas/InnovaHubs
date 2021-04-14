@@ -3,6 +3,7 @@ In order to try to keep an open collaboration among scholars, the source code sh
 You may cite this source code as follows:
 
 [1], for reference to the gravity model and the edge generator.
+
 [2], for reference to the application of this model in both, Switzerland and France.
 
 References:
